@@ -1,6 +1,6 @@
 # tensorflow_keras_to_caffe
 
-### This script implements the tensorflow1.x and keras model into a caffe inference model.
+### This script implements the tensorflow1.x and keras model into a caffe inference model.[zhihu](https://zhuanlan.zhihu.com/p/115081459)
 
 ### envs and tools
 
